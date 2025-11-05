@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20on-Stellar-blue?style=for-the-badge&logo=stellar" />
   <img src="https://img.shields.io/badge/Frontend-Next.js%2015-black?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Backend-Supabase-3ecf8e?style=for-the-badge&logo=supabase" />
   <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel" />
   <img src="https://img.shields.io/badge/Hackathon-2025-orange?style=for-the-badge&logo=stellar" />
 </p>
