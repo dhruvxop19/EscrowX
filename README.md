@@ -187,10 +187,10 @@ Freelancers and clients currently face:
 
 | Phase | Timeline | Goals |
 |--------|-----------|-------|
-| **Q1 2025** | Mainnet Launch | Deploy production MVP & audit |
-| **Q2 2025** | DAO Enhancement | Staking, reputation, rewards |
-| **Q3 2025** | Scale | Mobile app, IPFS, multi-currency |
-| **Q4 2025** | Ecosystem | API integrations, plugin SDK, governance token |
+| **Q1** | Mainnet Launch | Deploy production MVP & audit |
+| **Q2** | DAO Enhancement | Staking, reputation, rewards |
+| **Q3** | Scale | Mobile app, IPFS, multi-currency |
+| **Q4** | Ecosystem | API integrations, plugin SDK, governance token |
 
 ---
 
